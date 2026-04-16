@@ -7,4 +7,4 @@ draft: false
 
 # **Système d'exploitation**
 ***
-![HTTP](/linux1/images/linux.png?height=300,shadow,inline)
+![HTTP](images/linux.png?height=300,shadow,inline)
