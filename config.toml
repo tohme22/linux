@@ -1,4 +1,4 @@
-baseURL = "http://etud9.cmontmorency.qc.ca/linux1/"
+baseURL = ""
 languageCode = "fr-ca"
 DefaultContentLanguage = "fr"
 theme = "hugo-theme-learn"
@@ -8,3 +8,4 @@ titleSeparator = ""
 landingPageURL = "/linux1"
 landingPageName = "<i class='fas fa-home'></i> Accueil"
 disableSearch = true
+logo = "images/logo.png"
