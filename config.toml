@@ -1,11 +1,11 @@
-baseURL = ""
+baseURL = "https://red-ground-0523f3210.7.azurestaticapps.net/"
 languageCode = "fr-ca"
 DefaultContentLanguage = "fr"
 theme = "hugo-theme-learn"
 [params]
 themeVariant = "green"
 titleSeparator = ""
-landingPageURL = "/linux1"
+landingPageURL = "https://red-ground-0523f3210.7.azurestaticapps.net/"
 landingPageName = "<i class='fas fa-home'></i> Accueil"
 disableSearch = true
 logo = "images/logo.png"
